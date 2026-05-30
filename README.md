@@ -22,5 +22,6 @@
 
 #Resolution
 I documented the issue and proceeded with the remaining assignment requirements.
+
 #Outcome
 Successfully installed Cursor IDE, explored the Marketplace, created a GitHub repository, documented the process, and published the repository publicly.
