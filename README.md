@@ -1,7 +1,8 @@
 # cursor-ai-assignment
+
 #Tools Installed
-Cursor IDE
-GitHub
+1. Cursor IDE
+2. GitHub
 
 #Steps Completed
 1.Installed Cursor IDE.
